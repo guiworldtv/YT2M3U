@@ -1,7 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
+
+4 News | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live
 
 Kairali News | Malayalam | https://www.lyngsat-logo.com/logo/tv/kk/kairali-news-in.png |
@@ -144,9 +145,6 @@ https://www.youtube.com/channel/UCBZGE2wdqCuXPLQoy_Yd4fg/live
 
 Geeks for Geeks | Educational | |
 https://www.youtube.com/c/GeeksforGeeksVideos/live
-
-United Nations | English | |
-https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
 
 CGTN Europe | English | https://yt3.ggpht.com/ytc/AKedOLT7r1e0epwtoWbDZF-hoJ_XbzCSty6iU2OVzwTq=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
@@ -339,9 +337,6 @@ https://www.youtube.com/channel/UChDKyKQ59fYz3JO2fl0Z6sg/live
 
 DD INDIA | English | |
 https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
-
-Sadhguru | Hindi | |
-https://www.youtube.com/c/sadhguru/live
 
 Dabangg TV | Hindi | |
 https://www.youtube.com/channel/UCkmh47vEakhzTC619nOcQ6A/live
@@ -1023,3 +1018,273 @@ https://www.youtube.com/c/zoomonnews/live
 
 Maiboli TV | Marathi |  |
 https://www.youtube.com/channel/UCxDDiFEB2wrrQuKnx8OrevQ/live
+
+
+
+
+The Global Prayer Room | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live
+
+REVERE - 24/7 Worship | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLTzpN8YCpuGzvSsggwQitoHX_EwEvUd05pmfEer=s48-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/channel/UCtPhR34windpzltylYrj5mg/live
+
+
+
+
+RECORD TOCANTINS | TV ABERTA | https://yt3.ggpht.com/gU-OP3GGNeNw_3nCVm2aaUfOPT7LXFbAaWnsw1d10IEv-3OmXIMLTdfeg2alHVJN2OvZRLNu=s176-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/user/lacerdapaz/live
+
+SIC TV VILHENA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLSMTQHnUtfSYlv0EAwj3ATjIFM2EsKMErpxXF9c=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCvlZRjuviUF8Nh1B93-hq-w/live
+
+TV GUARARAPES RECORDTV | TV ABERTA | https://yt3.ggpht.com/QS2NqG54jNTin4iUAROHTKu-EIThOwNhJ1m8Cu0mDjFMMLLAZKXGcX6FDA1qn_oqrDjZPBOqyw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCOFMoDHG-vKXs-f5vcG7JaQ/live
+
+TV MINHA CIDADE | TV ABERTA | https://yt3.ggpht.com/xItGkAUFvmTzmbD6AfbE-u-ISA6jBA5gI8NNnjb7nUBZxBBXHMWkOg8LZoiPACRMAizS7lWsqw=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC01mwsfADk8SOX_k1OA58MA/live
+
+TV AMPLITUDE JUINA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLTIZDP4nqs_wMqEuKxwml_KzSdaOHyGn3B5PK6KiA=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TVAMPLITUDEJU%C3%8DNA/live
+
+TV AMPLITUDE JUARA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLT1nsetZiOPQs7hDsTllqaKyqMZLcPHrng9Adqe0g=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCzHMWzIFlR5xoHpwtiidCfQ/live
+
+TV AMPLITUDE GUARANTÃ | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLRb3ok2zVJtwLOd1nuiWYnDjfeZKC6a-qdmlktW=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCBqFc8V5QT1KuqAbrw9KJCw/live
+
+TV CONQUISTA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLTcY3PmIcSpW_MbYWEyuFsqSo_M9iW6wYypW5d5xg=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/tvconquista/live
+
+TV TROPICAL RN | TV ABERTA | https://yt3.ggpht.com/HPm1ZLcaOUXXHTfWiGjvyiWdLbXaEYCASiBQ_j9YwUJGMYvwvUja7EFFY6iXYaV4Z1HjFw4gbm0=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TVTropicalRN/live
+
+BALANÇO GERAL MARINGÁ | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLTU9rVkRiZiIzc5T4-WQeg1A63ABmXB1M4SfUrP=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/Balan%C3%A7oGeralMaring%C3%A1/live
+
+BALANÇO GERAL LONDRINA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLQ0W_WsprsS7vyYRSGN8dxb7zPPArbJ0FsNLevM=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/Balan%C3%A7oGeralLondrina/live
+
+BALANÇO GERAL CURITIBA | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLTeRZH9GnHgSsHi7zTRX-lwwbgpUHyhJfaAkH50=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/Balan%C3%A7oGeralCuritibaPR/live
+
+BALANÇO GERAL OESTE | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLSIXRCAFWjFY5DkQqIuZsJGapLbhViuBBfproZ0=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/Balan%C3%A7oGeralOeste/live
+
+VTV SBT | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLRoVt3xkM8mFxzSN2rjPFT78heJ3dMhpjxdH_7hhA=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/vtvoficial/live
+
+SBT RS | TV ABERTA | https://yt3.ggpht.com/YpwopYpJzCAW8V62GFJmtX2FjwCG1eOqgZHrw0gq9c3h9IHq6VvvOHL20-9zH72FnfM-avRkDUI=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/sbtrs/live
+
+SBT RIO | TV ABERTA | https://yt3.ggpht.com/wlK3uJ7NhJa2ictcPGsC7_Rz1xt_wFdTNNh52XIydxP-aIyypR9W1UVLpXXkt7c3DZr7h8R5WQ=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/SBTRJ/live
+
+SBT PARÁ | TV ABERTA | https://yt3.ggpht.com/spZJJ4LHTHT_gY_vtMPdKAOcAJhJc8fz1bQ2vfbyftYXeQY9oBNvd9y1filQioyIG5Ltgd9WfA=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/sbtpara/live
+
+SBT BRASILIA | TV ABERTA | https://yt3.ggpht.com/_sYQQeIkgJkOvJigYDowhk894DS6mcEuNra_HO_LF5y90NizxeL0O7FyChl8Qh7k9oFR6r8KHw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCOZQxZYlSjxWQisskqzbtjA/live
+
+BM&C NEWS | NEWS WORLD | https://yt3.ggpht.com/ytc/AKedOLTxhMhXkfzEQeuUOmBGYbiUwQx05-jYqfs97ARu=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCoja0MNI4SIvXqJR3szbSfw/live
+
+JOVEM PAN NEWS | NEWS WORLD | https://yt3.ggpht.com/ytc/AKedOLRmHywtWtGPiLXqxLQsy_DH-z9qdtZXngz_R2aZ5A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live
+
+
+RECORD NEWS | NEWS WORLD | https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
+
+CNN BRASIL | NEWS WORLD | https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
+CNN TURK | CNN's | https://yt3.ggpht.com/ytc/AKedOLS-KBRCkXSVRL6TwhcSIZExe3dbrocmFN2goR0Ceww=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live
+
+FOX NEWS | NEWS WORLD | https://yt3.ggpht.com/ytc/AKedOLQcyBtNBVCDXOr5zkVQoqoKTClWkJL45hSVbOxbWLc=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCXIJgqnII2ZOINSWNOGFThA/live
+
+GUARULHOS AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/ytc/AKedOLS65t8rTqqc4hZhI_PS-vShgEGOdpvQlcuYnfk_Hg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCbpmfj2g2tYuBezI2kEDhsg/live
+
+CONGONHAS AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCsF_WAG6g2cWnFKhcrJAQCQ/live
+
+PORTO ALEGRE AIRPORT  | AIRPORT LIVE | https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw/live
+
+LAS VEGAS AIRPORT | AIRPORT LIVE | https://yt3.ggpht.com/ll6JaBsZF0046sDVf7j4MotltYYW5v8XwgZAYzuVierMMstTtEa0UdEDr3c3M4p6E8sKurQfVg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCpWekERnJ3zwk-0gFlfursg/live
+
+SYRACUSE AIRPORT | AIRPORT LIVE | <logo> |
+https://www.youtube.com/channel/UCbZEWw8NHAcW9a06s0Q0ZMg/live
+
+Reagan National Airport | AIRPORT LIVE | https://yt3.ggpht.com/ytc/AKedOLQy8Fs0tkvLdTJgKZUQnp3pw55AEsXYNy2Cshvg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCM6-EhR88ZM5TmhHNeBd6UA/live
+
+Shoreham Airport | AIRPORT LIVE | <logo> |
+https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w/live
+
+SHOPTIME | HOME SHOPPING | https://yt3.ggpht.com/MLq8DNyvvfFEqm7HS5pILyWGQA5NLlkA7i-452AdPBJoQVpcXq_UDxVX6EMNM4HPkZ-fm26u5xs=s48-c-k-c0x00ffffff-no-rj|
+https://www.youtube.com/channel/UCCuYi5AP3gya6C5mdWYS6CQ/Live
+
+HSN Live Stream | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj|
+https://www.youtube.com/watch?v=1ph8qQnjXts/Live
+
+
+HSN2 Live Stream | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj|
+https://www.youtube.com/watch?v=q-BvtDrTnxc/Live
+
+
+Lejel Home Shopping | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLRdapq_R--VshV8IieQT7Xj7oQl8wSXsWsErcLu=s48-c-k-c0x00ffffff-no-rj|
+https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live
+
+QVC Live Stream | HOME SHOPPING| https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/watch?v=UqFzfqlb60g/Live
+
+QVC 2 Live Stream | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=_v_wMS-uACE/Live
+
+QVC Italia | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLRd3_a5uLRgNX-3HHBLUnEsGdj4ZfmlwvsMYUqb=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/qvcitalia/live
+
+QVC Deutschland | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQtAgEu0qoc-LPQFmvrZALXcwyaAYYW2JNSCSXPQQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCXg1nkxv-HywQRsIo3XAFIA/LIVE
+
+Shop HQ | HOME SHOPPING | https://yt3.ggpht.com/znNkYIBrkeGapZY3CP7OeN_RRNTviwFxmLvPjHKrEkzKbnI9rc6qpIB7A6zy6inwarCIBpjSULE=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w/live
+
+CHANNEL21 | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQ12ajz3oOeEG_Bk8uOB3BPzhj16Nx1hbyuNy_8-Q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live
+
+TVSN | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQuZOZNocLbtDZkGVS2fPIoGzo8w2Bk8WCkyg_Zvg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCo4sch-fwKIeyzyPIWRXjdw/live
+
+Shop LC  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live
+
+TJC Style  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSo-47JM1Mt-m_4EWdeZmi_uq87-cBZImge6KOr=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC8dXdHZshMmgDmvFVzjl55Q/live
+
+Jewelry Television | HOME SHOPPING | IMAGEM |
+https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live
+
+
+CABVIEWS from Norway |  TRAIN | https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/watch?v=0qfiHGUstk4/Live
+
+CABVIEWS from Norway |  TRAIN | https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCMv0gGYxPXDZDSQAS4vhgdg/Live
+
+
+THAILAND LIVE | TRAIN | https://yt3.ggpht.com/ytc/AKedOLTJglkmhs17R29Z00s8rPrBCuLPHyExWpBIJpyK7g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=qoEcy8HS8-8/Live
+
+
+Live Kyiv Ukraine  | EarthCam Live | https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/watch?v=2cyQPN5xQtU/Live
+
+
+Televisa Tijuana Oficial  | Latino | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/Live
+
+Televisa Tijuana Oficial  | Latino | https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=u_C7Lwe1798/Live
+
+Televisa Monterrey | Latino | https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+
+
+Telediario Canal 6 Monterrey | Latino | https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCCTTGnP8-QydTBoMXCUduoQ/Live
+
+
+Televisa Chihuahua | Latino | https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=xvGxvwWlnJ8/Live
+
+Televisa Chihuahua | Latino | https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/Live
+
+
+Meganoticias | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l790QCWpgPDcehyjzfhDKe2MqcuwGJc6HbUR4Q%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1 |
+https://www.youtube.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q/live
+
+T13 EN | Latino | https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=Ove87nZ_1D4/Live
+
+T13 EN | Latino | https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERvtJ6EiSY9vQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/Live
+
+24horas.cl  | Latino | https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=8YzOWIi3R2I/Live
+
+24horas.cl  | Latino | https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/Live
+
+
+Globovisión En Vivo Ve | Latino | https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
+
+Televisión Pública | ARGENTINA | https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+
+Crónica TV | ARGENTINA | https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/c/cronicatv/live
+
+C5N | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTqGg2bWg02R5un1pFAeuYDMGAVCmna52i__wapvw=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/c5n/live
+
+LA NACION | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSYzA3huV-HI91MDWQCaz6y5IjfDpj8sQTqNHLSmg=s68-c-k-c0x00ffffff-no-rj|
+https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
+
+
+TELEFE SALTA | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTQ0CHvwUkhFXB2UyejrJl0KVeBjhtrORfIweTQXg=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ/live
+
+América TV | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLR145rKfGpilHm6vnQistpV7jPIdRvO53vQgryV=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/americaenvivo/LIVE
+
+
+
+IP Noticias AR | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQaYsAXWJNpiduF7CfZckAt76XcPWwTeM4qkKiI=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/Live
+
+
+
+Todo Noticias | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
+Hipódromo de Palermo | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRJ0_-IzGm_c5e-Kn5iNrIrba2th4gJsjIt-JHSXg=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCBQnpH3GKOKRGg4O8PpqQSw/live
+
+A24 | ARGENTINA | https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+
+
+
+Canal 7 Mendoza AR | ARGENTINA | https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/Live
+
+El Siete TV (AFILIADA AMERICA) | ARGENTINA | https://yt3.ggpht.com/kg5vrdz7shjKha3N3I7ed5MhzGv3_LwVfNj1vtZfW9OFSGDArcvMD0wmtYhq9yLkkVuRCcuK6g=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
+
+Canal 8 San Juan (AFILIADA AMERICA) | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLTCjq3swUGlbn-gss0oqSC6XZ1o__OLXOraCqJzJQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g/live
+
+EL SEIS BARILOCHE | ARGENTINA | https://yt3.ggpht.com/88bIoKxC85lXsgiRMnqbkc8UB6ScJHjx0NvqFYxudJ_Cu3_ID2XDyl_426-kKZ1NfpsfpUIGPg=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCMy706Rhe2swaTmljCgiYVg/live
+
+EL DOCE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSUFI-aAzN3zAsFwS79WwJeAgmd7A4POK52QDcZ3g=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCMHxagKUH7t07eTs8lNfblg/live
+
+SENADO ARGENTINA |   ARGENTINA    |   https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo |
+https://www.youtube.com/c/SenadoTVArgentina/LIVE
+
+DIPUTADOS TELEVISIÓN |   ARGENTINA    |   https://yt3.ggpht.com/ytc/AKedOLQ44nSQS0oVmEYmXmp-lC_WTAq4_SiWRznH4rz7LA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UC1h8_HKc5wScqeRw1HV6a6w/LIVE
+
+ARGENTINA LIVE SISE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCftan3cVkKKfxXpRN9JUX7A/live
+
+PRAIA ARGENTINA LIVE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLQUkEUmZE-jNr1h_St0HJDSoAx7jjh3emFvCt3q=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCjeImUhRB1SLqN-svqDRJJw/live
