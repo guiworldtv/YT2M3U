@@ -1242,14 +1242,22 @@ T13 EN | Latino | https://yt3.ggpht.com/ytc/AKedOLR7bqk5Na_4EadU3tKgOi5b9jRifERv
 https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/Live
 
 24horas.cl  | Latino | https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=8YzOWIi3R2I/Live
-
-24horas.cl  | Latino | https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/Live
 
 
 Globovisión En Vivo Ve | Latino | https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
+
+El País | Latino | https://yt3.ggpht.com/ytc/AKedOLSh1AT7nLzmK_hNCzmcgrXBokg-DsYC6MKQ6A18=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live
+
+
+La Vanguardia | Latino | https://yt3.ggpht.com/ytc/AKedOLRVHufh_kTHBz51AgWKpi5E-yBplmevkqtIrN1ZTKE=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live
+
+Cámara de Diputados | MÉXICO | https://yt3.ggpht.com/58G5JcOBaDEvphcPUZSeJCbWYGu7R7UEUj010hkkNL2MpafXx7_NiZI44dc3mGhP3Wk2Is3yAw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCkLEVSsqQSCZ8pnyiLyGn3w/live
+
 
 Televisión Pública | ARGENTINA | https://yt3.ggpht.com/gCklb7Bo3XDM4aS_a1-Ta91LsGZtkGlb1IMQwLri3ureUeABTKqXYr-LZGET-Or4J_U4TI_uRq4=s48-c-k-c0x00ffffff-no-rj | 
 https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
@@ -1303,11 +1311,14 @@ https://www.youtube.com/channel/UCMy706Rhe2swaTmljCgiYVg/live
 EL DOCE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLSUFI-aAzN3zAsFwS79WwJeAgmd7A4POK52QDcZ3g=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCMHxagKUH7t07eTs8lNfblg/live
 
-SENADO ARGENTINA |   ARGENTINA    |   https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo |
+SENADO ARGENTINA | ARGENTINA |   https://yt3.ggpht.com/ytc/AKedOLSnZ-EKL9UQCi8CSKVDUDbbcwC7BXuZJb_vF4_lbA=s176-c-k-c0x00ffffff-no-rj-mo |
 https://www.youtube.com/c/SenadoTVArgentina/LIVE
 
-DIPUTADOS TELEVISIÓN |   ARGENTINA    |   https://yt3.ggpht.com/ytc/AKedOLQ44nSQS0oVmEYmXmp-lC_WTAq4_SiWRznH4rz7LA=s48-c-k-c0x00ffffff-no-rj |
+DIPUTADOS TELEVISIÓN | ARGENTINA |   https://yt3.ggpht.com/ytc/AKedOLQ44nSQS0oVmEYmXmp-lC_WTAq4_SiWRznH4rz7LA=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC1h8_HKc5wScqeRw1HV6a6w/LIVE
+
+Cámara de Diputados de la Provincia de San Luis | ARGENTINA |  https://yt3.ggpht.com/ytc/AKedOLTojwq6lCK6vh3nOTJ6-DLKAKLyj0Pak0i4jpiK=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/channel/UCm2Wryf2GiBXWEjUHUJhEqw/LIVE
 
 ARGENTINA LIVE SISE | ARGENTINA | https://yt3.ggpht.com/ytc/AKedOLRDFVq2CLFeGtnZhTNeRrfrnnY4Z_1AZlk2pwPn=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCftan3cVkKKfxXpRN9JUX7A/live
