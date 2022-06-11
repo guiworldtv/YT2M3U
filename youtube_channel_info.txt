@@ -2,9 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-VÍDEO ESTÁTICO TESTE | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=fYW_xWR9LJM
-
 The Global Prayer Room | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live
 
