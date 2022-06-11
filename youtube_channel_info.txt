@@ -2,6 +2,9 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+VÍDEO ESTÁTICO TESTE | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=fYW_xWR9LJM
+
 The Global Prayer Room | RELIGIOSO | https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCqSYig9Cmx6DJ3XaUYg4vpw/live
 
@@ -12,7 +15,10 @@ RIT TV | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO
 https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
 
 REDE BOAS NOVAS | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/c/BoasNovasbr
+https://www.youtube.com/c/BoasNovasbr/live
+
+TV VERDADE  | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TVVERDADE/live
 
 RECORD TOCANTINS | TV ABERTA | https://yt3.ggpht.com/gU-OP3GGNeNw_3nCVm2aaUfOPT7LXFbAaWnsw1d10IEv-3OmXIMLTdfeg2alHVJN2OvZRLNu=s176-c-k-c0x00ffffff-no-rj-mo |
 https://www.youtube.com/user/lacerdapaz/live
@@ -68,7 +74,14 @@ https://www.youtube.com/c/sbtpara/live
 SBT BRASILIA | TV ABERTA | https://yt3.ggpht.com/_sYQQeIkgJkOvJigYDowhk894DS6mcEuNra_HO_LF5y90NizxeL0O7FyChl8Qh7k9oFR6r8KHw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCOZQxZYlSjxWQisskqzbtjA/live
 
-TV CÂMARA SÃO PAULO |  | https://yt3.ggpht.com/ytc/AKedOLSQDFSq_97Nv-1I_w6w6yDkRecEUCxXROAkkEAnmQ=s88-c-k-c0x00ffffff-no-rj |
+TV A Crítica | TV ABERTA | https://yt3.ggpht.com/6BaRqJWUjuo7U91NMsuY0aH0vXzgWsUaKGFvvME1SYK8v9aBCRcWq0wSJ10mtLqFtltG08q5=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/TVACr%C3%ADtica/live
+
+
+Diário TV Teresópolis | TV ABERTA | https://yt3.ggpht.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/user/diariotv4/LIVE
+
+TV CÂMARA SÃO PAULO | TV ABERTA | https://yt3.ggpht.com/ytc/AKedOLSQDFSq_97Nv-1I_w6w6yDkRecEUCxXROAkkEAnmQ=s88-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCP8XlGjPSGj8JkuZ8hgDAJw/live
 
 
@@ -316,6 +329,9 @@ https://www.youtube.com/channel/UCkLEVSsqQSCZ8pnyiLyGn3w/live
 
 TV Justiça | | https://yt3.ggpht.com/LbNi3S5EEtziLc6BuAzxJtbeOnEYGmjVLiwr6PR1CQmSEkSIcOvJRlWuKnmJcE_aiXhTB76IsQ=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw/live
+
+Superior Tribunal Federal | | https://yt3.ggpht.com/e4qBZ8GZ6k1LHVJUaWhmTa_IIhCgCk42cENaVrECC-jhw7gD9glyyhvkudyBHHRvZ1n61wHgFYo=s88-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/c/STF_oficial/live
 
 Câmara dos Deputados BR | | https://yt3.ggpht.com/ytc/AKedOLSJnc5MKamnLLR6WpiejIu7NjCtqaySjZpO4Ru8Mg=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA/live
