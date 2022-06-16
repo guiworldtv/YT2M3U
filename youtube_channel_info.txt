@@ -268,22 +268,29 @@ https://www.youtube.com/user/Gemporia/live
 America's Auction Channel (AACTV) - USA (STK)  | HOME SHOPPING | https://i.imgur.com/7NCipJ2.png |
 https://www.youtube.com/channel/UCmGXuyddt_xg6ckdbGNPAjg/live
 
-PearlTV - France (STK)  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj |
+The Coin Vault - USA (STK)  | HOME SHOPPING | https://i.imgur.com/NFCKC7X.jpg |
+https://www.youtube.com/channel/UCGbjb7FYYmj0z3_9iJ7dMPQ/live
+
+
+
+
+
+
+
+PearlTV - França (STK)  | HOME SHOPPING | https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live
 
-Pearl TV - Germany (STK)  | HOME SHOPPING | https://i.imgur.com/cbFWldL.jpg |
+Pearl TV - Alemanha (STK)  | HOME SHOPPING | https://i.imgur.com/cbFWldL.jpg |
 https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="",
-plugin://plugin.video.sendtokodi/?
-
 CHANNEL21 - Alemanha (STK)  | HOME SHOPPING | https://i.imgur.com/wOAxLMR.png |
 https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live
+
+
+
+Телеканал Shop&Show - Russia (STK)  | HOME SHOPPING | https://i.imgur.com/pwVA25v.jpg |
+https://www.youtube.com/channel/UCWGkK1d7eUmK8XmJ4Kyu4MQ/live
 
 Juvelirochka TV (Ювелирочка ТВ) - Russia (STK)  | HOME SHOPPING | https://i.imgur.com/CNf0Ej5.png |
 https://www.youtube.com/channel/UCsxo83jFFZNC9woLRVG7d4w/live
