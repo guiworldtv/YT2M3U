@@ -66,4 +66,3 @@ with open('../youtube_info_chile.txt', errors="ignore") as f:
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-
