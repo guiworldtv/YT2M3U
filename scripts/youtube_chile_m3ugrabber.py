@@ -19,7 +19,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-with open('./youtubeLink.txt', encoding='utf-8') as f:
+with open('./youtube_info_chile.txt', encoding='utf-8') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('##'):
