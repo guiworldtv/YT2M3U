@@ -307,4 +307,4 @@ https://www.youtube.com/user/telesurtv/live
 teleSUR English | Latino | https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png |
 https://www.youtube.com/user/telesurenglish/live
 
-RTVE | ESPANHA | https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj |https://www.youtube.com/c/rtvenoticias/live
+RTVE | ESPANHA | https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj  | https://www.youtube.com/c/rtvenoticias/live
