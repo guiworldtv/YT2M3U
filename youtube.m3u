@@ -1,31 +1,37 @@
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 1
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://rr4---sn-o097znze.googlevideo.com/videoplayback?expire=1657849300&ei=dHHQYvSlDsqHkwbmz764DQ&ip=20.25.187.148&id=o-AFQKKtrGLKP8RaxZahrOHriuHHRoC8hYhzUcjqlnWYw1&itag=22&source=youtube&requiressl=yes&mh=FB&mm=31%2C29&mn=sn-o097znze%2Csn-q4flrnld&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=2018750&spc=lT-KhmvpSy-MyTKQK32A2lESDB6AKG8&vprv=1&mime=video%2Fmp4&ns=ptG_tXhp14zgzUhzw_SwNk8H&cnr=14&ratebypass=yes&dur=827.953&lmt=1471696890195670&mt=1657827426&fvip=2&fexp=24001373%2C24007246&c=WEB&n=Mwkaijd4w5SoMz1&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgXvfILwHCli4-ObeP6zr8Vgq8L2Pd0nqhxtuwPgRAO0MCIQCH42QfdkvynbmATLANJJKi1-WYHLEvD7dm6V6KEp1I7A%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgbWluphZ42rsRCpWju-52ypPbbj_eiu3psv1Ufq70GioCIQCQWXAlwFil4VpLAiSNVJGKSDBSOklpxhiMcCgLDMjOUw%3D%3D
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 2
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1657849301/ei/dXHQYq6KFZCCsfIP_NuiwAw/ip/20.25.187.148/id/kQWKJFlvxJw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4fl6nz6.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/lT-KhsArxghqJt7LMbkMyQkEVB-iwp0/vprv/1/playlist_type/DVR/mh/4H/mm/44/mn/sn-q4fl6nz6/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657826793/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAM4u4T5Zhi52BH_Em57EAW2DaQYMB8Bl5sQFBi7zrP52AiAHLq5UChBeDVflLyGcoVaCfeJwxwE-aJxNjipWF5VzTQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAKfR-6rIBwS-uPawOINH0XgvFSG9Vox8ESq8culWCVZRAiEAlTBdsbSJ59Un7CRmK83eog1Fs7hocN46mdTbdlahi0U%3D/playlist/index.m3u8
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 3
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://playback2.akamaized.net/streams/21076186_10489119_lsiiroaha8iuo0womki_1/exp=1657914103~acl=%2f*~data=hdntl~hmac=9f403dd2d6b3aefe449b14a6fcc44e8e7de1a1387ec4d44643004ac1309d4c04/media/21076186_10489119_lsiiroaha8iuo0womki_1@2756000p.m3u8?dw=80&ts=1657825200
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 4
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 5
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://rtvelivestream.akamaized.net/segments/la2/la2_main_1080.m3u8
-#EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Teste Salão 6
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://rtvelivestream.akamaized.net/segments/24h/24h_main_720.m3u8
-EOL              
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+###########################################################################
+#                                  >> https://github.com/guiworldtv       #
+###########################################################################
+
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/58G5JcOBaDEvphcPUZSeJCbWYGu7R7UEUj010hkkNL2MpafXx7_NiZI44dc3mGhP3Wk2Is3yAw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Cámara de Diputados Mexicano
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851460/ei/5HnQYp7LHO-vlu8PhoSUgA4/ip/20.114.125.21/id/I_-e-1VMBZ0.1/source/yt_live_broadcast/requiressl/yes/tx/24027709/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhtNkBr98NRqrxyU80nwPrsvvP8s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgT6kuIGDYHzq6-Ny0FPfOM4rLWEoJ00K9x-e1NWeQhlMCIQCG5q0A1ZU-SPtnpn_Err8C7gaDVkYoiBiTx5m54j_LFg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/LbNi3S5EEtziLc6BuAzxJtbeOnEYGmjVLiwr6PR1CQmSEkSIcOvJRlWuKnmJcE_aiXhTB76IsQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV Justiça
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851461/ei/5HnQYq-gOpTCiwS1yI3YDg/ip/20.114.125.21/id/x3rUFxBsIJk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khj0tgFLqPXcBKkNLreNwgQj5g88/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMPW1uGTEwccoYD0xUnpBP5DigtIzOmtcv16qKeHTQ5jAiB6VfLU0FYNxA7Zbhbq0Mqo_L0wkh0hk3fbEWyx0726rA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/e4qBZ8GZ6k1LHVJUaWhmTa_IIhCgCk42cENaVrECC-jhw7gD9glyyhvkudyBHHRvZ1n61wHgFYo=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Superior Tribunal Federal
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851461/ei/5XnQYuXhGJziuQL1g5TIBw/ip/20.114.125.21/id/0lQSLiqb-lQ.1/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhjsWFfFzignv5Lk4xYfYhR3TPM4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPxac5_cwu90KP34BBidsfVPa-ZWlsKz8drJcfNb0Y-dAiEAiiIG-rNoZdhXbEEgobiXuPVhqGSvFJtB516eFk8LE0Q%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJnc5MKamnLLR6WpiejIu7NjCtqaySjZpO4Ru8Mg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Câmara dos Deputados BR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851461/ei/5XnQYuGNM_GH_tcPoPunyAE/ip/20.114.125.21/id/obBc48oC1zM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhhXpKl8sJovnYgnyI8P8eJRfD2Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXP6bB1LeB8x6E_OD2hFd7xyHz-kndMavsieEq4HED44CIHKlblvs_J6CRezS9JNd-uol86vmG-ro3uUOQT6ylztR/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTv2bstbZp1YjIcL4_4p4P4pM9ePDi7C_Foedk4_Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV ALEGO
+https://bit.ly/3OXRD5q
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/S2aizddvZQypyQ5Gu77HhSDsWZCTQl1NeEqRgztbZ0R8yliUjQrQoMa6cMsjMMoREyB6pfUY=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ASSEMBLEIA LEGISLATIVA TOCANTINS
+https://bit.ly/3OXRD5q
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/H48w_GCxfG7WfXLSxjVihHktZtBRBzUWsqzbjK3FoxdRY1NfBhZzLiJNBUPzkZOAf9FmhQGOmpY=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ALESP
+https://bit.ly/3OXRD5q
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRr_SDZbbCwuZQNDPbdYuLWFz92sp0R5wtPIzAJ7Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", ALERJ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851464/ei/6HnQYoXeJsGMuAK0sq_wDQ/ip/20.114.125.21/id/k5ct1BtNmqw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khlkaf7MjQzlyjt30RJooa2lues8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIge-UAIMqD_h9WpCOrWCOihWFqLmCg1SFtVBKP6m20z6oCIQC5QYv55w34mKSOfCLwqI2GvxuesThYUVRUHrYtIh5IaQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_QJj7NY8rFna4niQT73udla5RXNQzIQY22RJAVA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Assembleia Legislativa de Minas Gerais
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657851465/ei/6XnQYrubBIXB6QKanoTgAg/ip/20.114.125.21/id/QC4vajmHf2U.1/source/yt_live_broadcast/requiressl/yes/tx/24214266/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khioe5KseAuDgA3LFq7qYS30Y0fM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgH8TYn7KYWBJPvm45oo_WQ83nG9qT9Fw0I9eqkQ4zf_QCIBIyZ6M8ZzRcbEjiBhe_HXHNHAjcxJDZdstC-mtiAlls/file/index.m3u8
+
+#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQDFSq_97Nv-1I_w6w6yDkRecEUCxXROAkkEAnmQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV CÂMARA SÃO PAULO
+https://bit.ly/3OXRD5q
