@@ -1,70 +1,65 @@
-import cv2 as cv
-import torch
-import numpy as np
-from matplotlib import pyplot as plt
-import streamlink
-from keras.preprocessing import image
-import imutils
+#! /usr/bin/python3
 
-link = 'https://youtu.be/NZF-3bksnf8'
-def videofeed(url): # codifica o link em video para a intrpratação
-    streams = streamlink.streams(url)
-    feed = streams["best"].url
-    return feed
+banner = r'''
+###########################################################################
+#                                  >> https://github.com/guiworldtv       #
+###########################################################################
 
 
-cap = cv.VideoCapture(1)
-# Check if camera opened successfully
-if (cap.isOpened()== False):
-    print("Error opening video stream or file")
+'''
 
+import requests
+import os
+import sys
 
-# Carregando o modelo do yolov5("YoloV5s", "YoloV5m", "YoloV5l", "YoloV5xl", "YoloV5s6") disponível na pasta /wheight
-model = torch.hub.load('ultralytics/yolov5', 'custom', path='models/3dYOLOv5n6.pt', force_reload=True)
-model.conf = 0.5
+windows = False
+if 'win' in sys.platform:
+    windows = True
 
-try:
-    model.cuda()
-except:
-    model.cpu()
-
-while(cap.isOpened()):
-    ret, frame = cap.read()
-    gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
-    th = cv.threshold(gray, 161, 355, cv.THRESH_BINARY_INV)[1]
-    """
-    img_grey = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
-    img_grey = img_grey.astype(np.uint8)
-
-    th = cv.adaptiveThreshold(img_grey,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C,\
-            cv.THRESH_BINARY,11,2)
-    """
-    cnts = cv.findContours(th.copy(), cv.RETR_EXTERNAL,
-    cv.CHAIN_APPROX_SIMPLE)
-    cnts = imutils.grab_contours(cnts)
-    c = max(cnts, key=cv.contourArea)
-    # draw the shape of the contour on the output image, compute the
-    # bounding box, and display the number of points in the contour
-    output = frame.copy()
-    #cv.drawContours(output, [c], -1, (0, 255, 0), 3)
-    detect = model(frame)
-    detect = detect.pandas().xyxy[0]
-    detect = detect.to_numpy()
-    for i in detect:
-        xmin, ymin, xmax, ymax, confidence, label = int(i[0]), int(i[1]), int(i[2]), int(i[3]), \
-                                                    i[4], i[6]
-        cv.putText(output, str(float("{0:.2f}".format(confidence))), (xmax + 20, ymin), cv.FONT_HERSHEY_SIMPLEX, 0.7,
-                    (0, 255, 0), 1, cv.LINE_AA)
-        cv.putText(output, label, (xmax + 20, ymin + 30), cv.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 1, cv.LINE_AA)
-        cv.rectangle(output, (xmin, ymin), (xmax, ymax), (0, 0, 255), 2)
-
-    if ret == True:
-        cv.imshow('Frame',output)
-        cv.imshow('Frame2',th)
-        if cv.waitKey(25) & 0xFF == ord('q'):
+def grab(url):
+    response = requests.get(url, timeout=15).text
+    if '.m3u8' not in response:
+        #response = requests.get(url).text
+        if '.m3u8' not in response:
+            if windows:
+                print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8')
+                return
+            os.system(f'wget {url} -O temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8')
+                return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
             break
-    else:
-        break
+        else:
+            tuner += 5
+    print(f"{link[start : end]}")
 
-cap.release()
-cv.destroyAllWindows()
+print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"')
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+print(banner)
+#s = requests.Session()
+with open('../youtube_channel_info.txt', errors="ignore") as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')
