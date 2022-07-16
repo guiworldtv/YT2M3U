@@ -10,6 +10,35 @@ import requests
 import os
 import sys
 
+mport requests
+import shutil
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+channel_no = 0
+m3u = None
+def get_live_info(channel_id):
+    try:
+        webpage = urlopen(f"https://www.youtube.com/{channel_id}/live").read()
+        soup = BeautifulSoup(webpage, 'html.parser')
+        urlMeta = soup.find("meta", property="og:url")
+        if urlMeta is None:
+            return None
+        url = urlMeta.get("content")
+        if(url is None or url.find("/watch?v=") == -1):
+            return None
+        titleMeta = soup.find("meta", property="og:title")
+        imageMeta = soup.find("meta", property="og:image")
+        descriptionMeta = soup.find("meta", property="og:description")
+        return {
+            "url": url,
+            "title": titleMeta.get("content"),
+            "image": imageMeta.get("content"),
+            "description": descriptionMeta.get("content")
+        }
+    
+    except Exception as e:
+                return None
+        
 windows = False
 if 'win' in sys.platform:
     windows = True
