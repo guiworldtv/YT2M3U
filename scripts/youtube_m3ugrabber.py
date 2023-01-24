@@ -49,7 +49,7 @@ class Channel:
 
 channels = []
 
-with open("youtube_channel_info.txt", errors="ignore") as f:
+with open('../youtube_channel_info.txt', errors="ignore") as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
