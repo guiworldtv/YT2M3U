@@ -24,19 +24,6 @@ def grab(url):
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
-    while True:
-        if 'https://' in response[end-tuner : end]:
-            link = response[end-tuner : end]
-            start = link.find('https://')
-            end = link.find('.m3u8') + 5
-            break
-        else:
-            tuner += 5
-    print(f"{link[start : end]}")
-
-print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"')
-print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-
 class Channel:
     def __init__(self, ch_name, grp_title, tvg_logo, tvg_id):
         self.ch_name = ch_name
@@ -45,7 +32,23 @@ class Channel:
         self.tvg_id = tvg_id
 
     def __str__(self):
-        return f'\n#EXTINF:-1 group-title="{self.grp_title}" tvg-logo="{self.tvg_logo}" tvg-id="{self.tvg_id}", {self.ch_name}'
+        
+    
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            break
+        else:
+            tuner += 5
+    return f'\n#EXTINF:-1 group-title="{self.grp_title}" tvg-logo="{self.tvg_logo}" tvg-id="{self.tvg_id}", {self.ch_name}'
+    print(f"{link[start : end]}")
+
+print('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"')
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+
+
 
 channels = []
 
